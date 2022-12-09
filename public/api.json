@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "Title": "Dumble",
+      "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "for_age": "21-35",
+      "time": 40,
+      "img": "/images/dumble.jpg"
+    },
+    {
+      "id": "2",
+      "Title": "Swiming",
+      "body": "Swimming is an individual or team racing the move through water.",
+      "for_age": "18-32",
+      "time": 50,
+      "img": "/images/swimming.jpg"
+    },
+    {
+      "id": "3",
+      "Title": "Battling Ropes",
+      "body": " Battle ropes can be a valuable fitness tool to use for workouts that burn fat.",
+      "for_age": "20-28",
+      "time": 30,
+      "img": "/images/rope.jpg"
+    },
+    {
+      "id": "4",
+      "Title": "Weight Lifting",
+      "body": "Strength training can help you or lose weight, and to help you burn more.",
+      "for_age": "20-28",
+      "time": 50,
+      "img": "/images/weight.jpg"
+    },
+    {
+      "id": "5",
+      "Title": "Running",
+      "body": "Running can give you a longer life,it's even good for your knees and lower back.",
+      "for_age": "20-28",
+      "time": 40,
+      "img": "/images/running.jpg"
+    },
+    {
+      "id": "6",
+      "Title": "Stretching",
+      "body": "There are many benefits benefits to regular stretching.increase.",
+      "for_age": "20-28",
+      "time": 30,
+      "img": "/images/Stretching.jpg"
+    },
+    {
+      "id": "7",
+      "Title": "Jump Rope",
+      "body": "This old-school workout tool delivers a cheap, portable form of cardio and total-.",
+      "for_age": "20-28",
+      "time": 20,
+      "img": "/images/Jump Rope.jpg"
+    },
+    {
+      "id": "8",
+      "Title": "Cycling",
+      "body": "Cycling is a low impact aerobic exercise that offers a wealth of benefits.",
+      "for_age": "20-28",
+      "time": 40,
+      "img": "/images/Cycling.jpg"
+    },
+    {
+      "id": "9",
+      "Title": "Push Up",
+      "body": "Traditional pushups are beneficial for building upper body strength.",
+      "for_age": "20-28",
+      "time": 50,
+      "img": "/images/Push Up.jpg"
+    }
+  ]
